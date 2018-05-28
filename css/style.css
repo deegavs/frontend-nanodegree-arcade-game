@@ -1,3 +1,6 @@
 body {
-    text-align: center;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url('https://image.freepik.com/free-vector/natural-landscape-background-design_1196-257.jpg');
+  background-size: cover;
 }
