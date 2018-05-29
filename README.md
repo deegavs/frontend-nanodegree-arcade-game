@@ -2,12 +2,21 @@
 
 ## Game Description
 
-This classic Arcade game is the 4th student project in the Front-end developer program.
+This classic Arcade game is the 4th student project in the Front-end developer program.  
+Provided with the art assets game engine `engine.js` and resources `resources.js` from the `startup code` on this [github repository](https://github.com/udacity/frontend-nanodegree-arcade-game),
+our required task is to complete the `app.js` file by implementing javascript object-oriented programming features to build the game.
 
 ## Completing the Project.
 
-Provided with the game engine `engine.js` and resources `resources.js` from the `startup code`,
-The required task is to complete the `app.js` file by implementing javascript object-oriented programming features.
+The tasks required are to implement
+
+1. Enemy class (constructor)
+2. Player class (constructor)
+3. Enemy and Player objects (instances/subclasses)
+
+## Installing the Game
+
+Download or clone the game from this [repository](https://github.com/deegavs/frontend-nanodegree-arcade-game) and launch index.html to play the game.
 
 ## Instructions to Play the Game
 
@@ -19,6 +28,7 @@ Use the arrow keys on your keyword to move the player figure.
 - **&rarr;** to go right
 - **&darr;** to go down
 
-## Play the Game
+## Resources
 
-Try out the [Game](https://github.com/deegavs/frontend-nanodegree-arcade-game/index.html)
+Project startup assets from [Udacicty](https://github.com/udacity/frontend-nanodegree-arcade-game)
+Background-image is from [freepik](https://image.freepik.com/free-vector/natural-landscape-background-design_1196-257.jpg)
