@@ -22,7 +22,7 @@ Download or clone the game from this [repository](https://github.com/deegavs/fro
 
 The goal is to move the figure at the bottom to cross the bug's highway to reach the water without colliding with the bugs passing by at random speeds.
 
-Use the arrow keys on your keyword to move the player figure.
+Use the arrow keys on your keyboard to move the figure.
 - **&uarr;** to go up
 - **&larr;** to go left
 - **&rarr;** to go right
@@ -30,5 +30,5 @@ Use the arrow keys on your keyword to move the player figure.
 
 ## Resources
 
-Project startup assets from [Udacicty](https://github.com/udacity/frontend-nanodegree-arcade-game)
-Background-image is from [freepik](https://image.freepik.com/free-vector/natural-landscape-background-design_1196-257.jpg)
+- Project startup assets from [Udacicty](https://github.com/udacity/frontend-nanodegree-arcade-game)
+- Background-image is from [freepik](https://image.freepik.com/free-vector/natural-landscape-background-design_1196-257.jpg)
