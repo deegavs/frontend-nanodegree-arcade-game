@@ -12,25 +12,25 @@ The required tasks are to implement
 
 1. Enemy class (constructor)
 
-  - create an Enemy function to set the location and speed
-  - update enemy method for the the Enemy's location and handle collisions with the player
+   - create an Enemy function and set the enemy location and speed
+   - update enemy method for the Enemy's location and handle collisions with the player
 
 2. Player class (constructor)
 
-  - create a Player function that initiates the player
-  - update the Player method
-  - implement the render method for the player
-  - implement player.handleInput method
-  - implement Enemy render
-  - implement Enemy update
-  - implement allEnemies render
-  - implement checkCollisions between enemy and player
-  - implement reset
+   - create a Player function that initiates the player
+   - update the Player method
+   - implement the render method for the player
+   - implement player.handleInput method
+   - implement Enemy render
+   - implement Enemy update
+   - implement allEnemies render
+   - implement checkCollisions between enemy and player
+   - implement reset
 
 3. Enemy and Player objects (instances/subclasses)
 
-  - create new player object
-  - create several new Enemy objects and have them placed in a new array called allEnemies
+   - create new player object
+   - create several new Enemy objects and have them placed in a new array called allEnemies
 
 ## Installing the Game
 
