@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Effective JavaScript: Frogger</title>
+  <title>Classic Arcade Game Clone</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -18,9 +18,36 @@
     </div>
   </section>
 
+  <section class="modal">
+    <div class="modalWin" id="winModal">
+      <span class="close">&times;</span>
+      <span>
+        <h2>Yippeee!</h2>
+        <p>You are a zigzag Ninja</p>
+        <input class="btn" type="button" value="Play Again">
+        <input class="btn" type="button" value="Cancel">
+      </span>
+    </div>
+    <div class="modalLost" id="lostModal">
+      <span class="close">&times;</span>
+      <span>
+        <h2>Auch!</h2>
+        <p>Not good enough!</p>
+        <input class="btn" type="button" value="Try again">
+        <input class="btn" type="button" value="Cancel">
+      </span>
+    </div>
+  </section>
+
+
   <script src="js/resources.js"></script>
   <script src="js/app.js"></script>
   <script src="js/engine.js"></script>
+
+  <footer>
+    <p>&copy;2018: Completed by Edmond Gagavo</p>
+    <p>Udacity | Google Frontend Developer Student Project</p>
+  </footer>
 
 </body>
 

@@ -87,6 +87,7 @@ var Record = function() {
   this.hits = 0;
   this.score = 0;
 };
+
 // Updates how many runs achieved
 Record.prototype.updateRuns = function() {
   this.runs += 1;
@@ -114,6 +115,7 @@ enemyLocations.forEach(function(location) {
   enemy = new Enemy(0, location, 200);
   allEnemies.push(enemy);
 });
+
 // Starting location of the player on the x and y axis.
 var player = new Player(202, 404);
 var record = new Record();
