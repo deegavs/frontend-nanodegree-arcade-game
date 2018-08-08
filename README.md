@@ -46,6 +46,12 @@ Use the arrow keys on your keyboard to move the figure.
 - **&rarr;** to go right
 - **&darr;** to go down
 
+Refresh the browser to start again. See ##Improvements below for details.
+
+## Improvements
+
+I have left this project and continued on to others and left to be completed later. Since time is not on my side on the scholarship program, I'll be making Improvements to this project like implementing a popup for the game end and restart and collecting gems and additional obstacles.
+
 ## Resources
 
 - Project startup assets from [Udacity](https://github.com/udacity/frontend-nanodegree-arcade-game)
